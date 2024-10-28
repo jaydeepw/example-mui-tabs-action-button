@@ -1,7 +1,7 @@
 # Adding an action button or an icon to the tabs list using Material UI v5
 
 ## Related Blog
-[Material UI v5 tabs list with action buttons using NextJS v15](https://toofancoder.com/blog/blog/material-ui-tab-list-with-icons-or-action-buttons?utm_source=github)
+[Material UI v5 tabs list with action buttons using NextJS v15](https://toofancoder.com/blog/material-ui-tab-list-with-icons-or-action-buttons?utm_source=github)
 
 ## Screenshot
 TODO:
