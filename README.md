@@ -6,9 +6,7 @@
 ## Screenshot
 TODO:
 
-[![Watch the video](https://github.com/jaydeepw/example-react-stack-grid/blob/main/media/screenshot.png?raw=true)](https://youtu.be/Qs8zKTzuyCw)
-
-[xx](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/cover.png?raw=true)
+[![Watch the video](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/cover.png?raw=true)](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/cover.png?raw=true)
 
 # Using version as below
 - NextJS - `15.0.1`
