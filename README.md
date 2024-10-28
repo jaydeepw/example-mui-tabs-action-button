@@ -4,7 +4,6 @@
 [Material UI v5 tabs list with action buttons using NextJS v15](https://toofancoder.com/blog/material-ui-tab-list-with-icons-or-action-buttons?utm_source=github)
 
 ## Screenshot
-TODO:
 
 [![Watch the video](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-1.png?raw=true)](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-1.png?raw=true)
 
