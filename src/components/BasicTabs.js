@@ -51,7 +51,7 @@ const ActionSection = () => {
       }}
     >
       <Image width={24} height={24} src={MyIcon} alt="Image Icon" />
-      <Button>Action2</Button>
+      <Button>Action</Button>
     </div>
   );
 };
