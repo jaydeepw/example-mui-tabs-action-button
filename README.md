@@ -5,9 +5,9 @@
 
 ## Screenshot
 
-[![Watch the video](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-1.png?raw=true)](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-1.png?raw=true)
+[![Tabs with action item](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-1.png?raw=true)](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-1.png?raw=true)
 
-[![Watch the video](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-2.png?raw=true)](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-2.png?raw=true)
+[![Icon tabs with action button](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-2.png?raw=true)](https://github.com/jaydeepw/example-mui-tabs-action-button/blob/main/images/tab-type-2.png?raw=true)
 
 # Using version as below
 - NextJS - `15.0.1`
